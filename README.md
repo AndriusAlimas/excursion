@@ -1,6 +1,7 @@
 # excursion
 
-In this project i learning how to build simple semantic web page, using along git. This execise comes from codeAcademy Pro.
+In this project i learning how to build simple semantic web page, using along git. This exercise comes from codeAcademy Pro.
+
 ---
 
 ## Technologies:
